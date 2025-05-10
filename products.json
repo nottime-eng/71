@@ -1,0 +1,27 @@
+
+[
+    {
+        "id": 1,
+        "name": "Minecraft Premium Account",
+        "category": "Minecraft Premium",
+        "price": 26.99,
+        "image": "product1.jpg",
+        "description": "A premium Minecraft account with full access."
+    },
+    {
+        "id": 2,
+        "name": "Hypixel Unban",
+        "category": "Hypixel Unban",
+        "price": 10.00,
+        "image": "product2.jpg",
+        "description": "Get unbanned from the Hypixel Minecraft server."
+    },
+    {
+        "id": 3,
+        "name": "Minecraft Redeem Code",
+        "category": "Redeem Codes",
+        "price": 15.00,
+        "image": "product3.jpg",
+        "description": "A redeem code for Minecraft, valid for one account."
+    }
+]
